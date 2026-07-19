@@ -25,7 +25,7 @@ based on age and gender.
 
 ## Sample Output
 
-![Sample Output](eligibility_output.png)
+![Sample Output](output.png)
 
 ## Author
 
