@@ -7,9 +7,9 @@ I'm building **30 mini Python projects in 30 days** to strengthen my programming
 ## Projects
 
 | Day | Project | Status |
-|-----|---------|--------|
+|------|----------------------|--------|
 | 1 | Eligibility Checker | ✅ |
-| 2 | Student Result System | ⏳ |
+| 2 | Student Result System | ✅ |
 | 3 | BMI Calculator | ⏳ |
 | ... | ... | ... |
 
