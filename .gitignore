@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE settings
+.idea/
+.vscode/
+*.swp
+
+# Sample temporary generated folders
+sample_messy_folder/
+website_qr.png
+message_qr.png
+wifi_qr.png
+qrcode.png
